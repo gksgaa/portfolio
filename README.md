@@ -1,2 +1,3 @@
 # portfolio
-My personnal Portfolio website created using HTML, CSS, JavaScript
+                                              Hi! I am SHANKARA GOWRI SUBRAMANIAN
+                                               Welcome to my personnal Portfolio 
